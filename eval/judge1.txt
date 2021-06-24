@@ -1,0 +1,210 @@
+1   GR|general relativity|0.99818
+1   QPOs|quasi-periodic oscillations|0.999811
+1   NIBA|non-interacting blip approximation|0.99993
+1   ISM|interstellar medium|0.997824
+0   colors|charges, dipole moments, QCD charges|0.73859
+0   Eq.\|\ref{eq18}|0.980869
+0   Li|\cite{draine+li}|0.96935
+0   1-q|kj}\frac{(1-q^j)}{(q)-{L-j}} =|0.991202
+1   NASA|National Aeronautics and Space Administration|0.999868
+1   GRB|$\gamma$-ray burst|0.999408
+1   EROs|Extremely Red Objects|0.999811
+0   W(f)|L-{W(f)}W =|0.944843
+1   QR|Qualitative Reasoning|0.99818
+1   W51 GMC|W51 Giant Molecular Cloud|0.999613
+1   NMR|nuclear magnetic resonance|0.999808
+1   CNOT|controlled-NOT|0.992792
+0   A/aA|$\psi-a^{-1} \Lambda/\Lambda \cong|0.223562
+1   ADM|after 3+1 decomposition|0.904799
+1   pd|proton-deuteron|0.994292
+0   wC|{(wC)'^\top|0.96935
+0   iii|instabilities|0.981322
+1   csco|complete set of commuting observables|0.999868
+0   2\pi|\frac{d^4k}{(2\pi)^2}|0.999555
+0   S|superconducting|0.967224
+0   x'-x|\frac{e^{-\frac{1}{2}(x-x')^2}}{\sqrt{2\pi}}|0.99278
+1   SCC|\term{strong cosmic censorship}|0.999408
+1   HFAG|Heavy Flavor Averaging Group|0.999964
+1   DFG|Deutsche Forschungsgemeinschaft|0.981322
+1   RMS|root-mean-square|0.999408
+1   GISC|\affiliation{Grupo Interdisciplinar de Sistemas Complejos|0.999868
+1   WMAP|Wilkinson Microwave Anisotropy Probe|0.999964
+0   k/x-2|\frac{x-2}k + \frac{x-2 \log|0.999901
+1   PL|photoluminescence|0.989054
+1   RCR|Route Change Request|0.999808
+1   LRG|Large Rapidity Gaps|0.999808
+1   LR|likelihood ratio|0.99818
+1   APC|address={AstroParticule et Cosmologie|0.904799
+1   BBM92|Bennett-Brassard-Mermin 1992|0.996068
+1   QMC|quantum Monte Carlo|0.999808
+0   P\times X'|$(P-0\times X)\cup|0.994648
+0   A'|$A''$, $$\mathbb{P}|0.657475
+1   PSF|point spread function|0.999808
+0   EPFL|\author{O.~Schneider}\affiliation{\'Ecole Polytechnique F\'ed\'erale de Lausanne|0.999868
+1   MSE|Mean Square Error|0.999808
+0   z-N|\frac{W^{(3)}-{-2}\phi-j(z-j)}{(z-z-j)} \cdots \phi-N|0.904086
+1   BIC|Bayesian information criterion|0.999808
+1   QBD|quasi-birth-and-death}|0.999408
+1   MICCAI|\emph{Medical Image Computing and Computer-Assisted Intervention|0.999989
+1   IGM|intergalactic medium|0.997824
+1   VOADP|variety with one apparent double point}|0.999989
+1   EWPT|ElectroWeak Precision Tests|0.999616
+0   b^\pm-i-a^\pm-i|property\begin{equation}\sum-{k=1}^n |\Lambda-\pm(s,k)|^2=\frac{\pi}{2} \textrm{sech}^2(\pi s) L-\pm\,,\label{yuy}\end{equation}with $L-\pm=\sum-i|0.745608
+1   PECs|potential energy curves|0.999811
+1   GRBs|gamma-ray bursts|0.999811
+1   GBSRBS|Green Bank Solar Rado Burst Spectrometer|0.999979
+0   IOP|$^b$~\small{Institute of Physics|0.999408
+1   QFT|quantum field theory|0.999808
+1   EAS|Extensive Air Shower|0.999808
+0   twice|two Hamilton operators approach $\epsilon$|0.73859
+0   u-1+u-2|u-1|^2(x),\quad H-{2}(x)=\conductivity(x)|\nabla u-2|^2(x),\quadH-{3}(x)= \conductivity(x)|\nabla|0.999901
+1   AO|adaptive optic|0.99818
+0   gamma|\node[sommet,label=below:$s-\gamma$]|0.997596
+1   TIs|topological insulators|0.998732
+1   TeVeS|tensor-vector-scalar|0.997596
+1   AP|Asymptotic Preserving}|0.99818
+0   Default}|$Default$|0.994648
+1   BAO|baryon acoustic oscillation|0.999808
+1   PCA|Principal Component Analysis|0.999808
+0   Eq.\|\ref{eq:diffusion}|0.980869
+1   CCN|cloud condensation nuclei|0.999808
+1   HK|Huang-Krantz|0.994292
+1   CTE|Charge Transfer Efficiency|0.999808
+1   SODE|\emph{second-order differential equation}|0.99993
+1   SVD|Singular Value Decomposition|0.999808
+0   irreps|irreducible representations|0.997596
+1   PMF|potential of mean force|0.997839
+1   BC|balance condition|0.99818
+1   FI|Fayet-Iliopoulos|0.994292
+1   CVT|centroidal Voronoi tessellation|0.999808
+1   BAO|baryon acoustic oscillation|0.999808
+1   IUE|International Ultraviolet Explorer}|0.999808
+1   IRIS|Infrared Imaging System|0.999616
+1   NAOJ|National Astronomical Observatory of Japan|0.999868
+1   VMC|variational Monte Carlo|0.999808
+1   ENR|elastic net regularisation|0.999808
+1   LHC|Large Hadron Collider|0.999808
+1   QMC|quark mode condensation|0.999808
+0   1-z-i|\frac{1-\prod-{i\in S} z-i}{\prod-{i\in S}|0.999901
+1   OGE|one-gluon exchange|0.999408
+1   SEDs|spectral energy distributions|0.999811
+1   AMS-Sort|\section{Adaptive Multi-Level\\ Sample Sort|0.994648
+1   AC|anti-continuum|0.994292
+1   FET|First Exit Time|0.999808
+1   PFOE|per-flow optimality equation|0.99993
+1   qc|quaternionic contact|0.99818
+1   MDAF|magnetically dominated advective flow|0.999964
+0   R4K|Figure~\ref{fig:accrate4k}|0.996938
+1   SACK|selective acknowledgement|0.992792
+0   1\otimes s|$1\otimes s:J-X^{\otimes 2}\to \Z[X]\otimes J-X$ such that $(1\otimes \pi)\circ|0.986193
+1   RCMDP|\emph{robust} CMDP|0.997596
+0   q-2|$\content{q' p-2|0.998497
+1   CBPF|^{1}$Centro Brasileiro de Pesquisas F\'{i}sicas|0.999868
+0   s,T|\pare{\dsp{\sup-{t \in|0.904086
+1   FWF|Foerderung derwissenschaftlichen Forschung|0.999408
+1   BER|bit error rate|0.999808
+1   FSS|finite size scaling|0.999808
+0   hep-ph|{arXiv:hep-ph/0010175|0.994648
+1   PBC|periodic boundary conditions|0.999808
+1   EoS|equation of state|0.999808
+1   MPIDS|Max Planck Institute for Dynamics and Self-Organization|0.999989
+1   DLCQ|discrete light-cone quantization|0.99993
+1   S|star|0.967224
+1   BMN|Bonyad Melli Nokhbegan|0.999808
+1   mips|minimum ionizing particles|0.992955
+1   GMCs|giant molecular clouds|0.999811
+1   skdaccess|SciKit Data Access|0.997596
+1   PWNe|Pulsar Wind Nebulae|0.992792
+0   Y-1|Y-1,|0.998497
+1   LDSs|localized dark solitons}|0.992955
+1   ODI|Open Data Interface|0.999808
+1   GIL12|\cite{Gilmore2012}|0.999613
+1   EER|equal error rate|0.999808
+1   CIEMAT|Centro de Investigaciones Energ\'eticas, Medioambientales y Tecnol\'ogicas|0.986066
+1   CBPF|^{1}$Centro Brasileiro de Pesquisas F{\'\i}sicas|0.999868
+1   EGO|\affiliation{European Gravitational Observatory|0.999408
+1   PZTs|piezoelectric transducers|0.992955
+1   RSFC|resting-state fMRI connectivity|0.99993
+0   CDR|\ref{sec:cdr-data}|0.987697
+1   FBB|forward body biasing|0.999808
+1   NNSFC|National Natural Science Foundation of China|0.999989
+1   SARSA|State-action-reward-state-action|0.999979
+1   FCN|fully-connected networks|0.999408
+1   STFC|Science and Technologies Facilities Council|0.999868
+0   1-s|H(s)={(1-s^2)^4\over|0.998497
+1   FID|free induction decay|0.999808
+1   TRGB|the Red Giant Branch|0.999964
+1   GK|graphlet kernels|0.99818
+1   SNF|Science Foundation|0.997824
+1   WSR|weighted sum rate|0.999808
+1   ROC|Receiver operating characteristic|0.999808
+0   Eq.\|\ref{eqPup}|0.980869
+1   PCA|principal component analysis|0.999808
+1   VLSSr|VLA Low-frequency Sky Survey redux|0.999979
+1   PDF|probability distribution function|0.999808
+1   SS|scheduled sampling|0.99818
+0   safeC|\begin{scope}[fill opacity=0.5] \draw[green, fill,rounded corners=.5mm, name=safe]|0.73859
+0   FDF|e.g.~Figure~\ref{fig:fdf}|0.987697
+1   ARE|\caption{\emph{Average Relative Error|0.999408
+1   TTS|transversely trapped surface}|0.999808
+1   FO-RD|FO with recursive definitions|0.992445
+0   NL|natural language queries|0.949988
+0   1-u^2|du^2/(1-u^2) +|0.999901
+1   fps|\emph{formal power series}|0.999408
+1   SE|state evolution|0.99818
+0   k,m|\inf\set{\abs{(k^2-ak)-(-m^2-am)}\ :\|0.904086
+1   DlBF|Deletable Bloom filter|0.992955
+1   mm-spaces|metric measure spaces|0.994648
+1   CDF|cumulative distribution function|0.999808
+1   EAO|expected average overlap|0.999808
+1   MEM|momentum exchange method|0.999808
+1   HVAC|heating, ventilation, and air conditioning|0.999868
+0   s1|{\small 1}|0.909995
+1   QoS|quality of service|0.999808
+1   GZSL|generalized ZSL|0.992792
+1   RL|reinforcement learning|0.99818
+1   ASIC|Application Specific Integrated Circuit|0.999964
+1   HOG|Histogram of oriented gradients|0.997839
+1   AI|Artificial Intelligence|0.99818
+1   LAD|Large Area Detector|0.999808
+1   mAR|mean average recall|0.999808
+0   R(v,B)-C(k,B)$|R^\ell(v,B)-C^\ell(k,B)$|0.999701
+1   AC|Algorithmic Complexity|0.99818
+1   PDH|Pound-Drever-Hall|0.999408
+1   ECP|estimated 95\% coverage probability|0.988583
+1   NDP|non-dissipative photosphere model|0.988583
+1   SIR|susceptible-infected-recovered|0.999408
+1   NB|Negative Binomial|0.99818
+1   GK|Giulietti-Korchm\'aros|0.994292
+0   f'|f \circ|0.657475
+1   CNN|Convolutional Neural Network|0.999808
+1   LSTM|Long Short-Term Memory|0.99993
+0   hep-th|\href{https://arxiv.org/abs/hep-th/0403021}{{\ttfamily arXiv:0403021|0.992445
+1   DISC|Distributed Computing|0.992792
+0   H+|1+\frac{2}{H}|0.854368
+1   RV|region verification|0.99818
+1   R|red|0.967224
+1   MERS|Middle Eastern respiratory syndrome|0.999964
+1   ICA-R|ICA with reference|0.992445
+1   R-{c}$|relation of $c$|0.9999
+1   STD|standard deviation|0.987697
+1   ST|Straight-Through|0.994292
+1   FT|Fourier Transforms|0.99818
+1   CD|contact discontinuity|0.99818
+1   RFBR|Russian Foundation for Basic Research|0.999868
+1   DARMA|Discrete AutoRegressive Moving Average|0.999928
+0   M^*|$1/M^*\propto|0.978311
+1   GRBs|gamma-ray bursts|0.999811
+1   OCNN|One-Class Neural Networks|0.99993
+1   MPQ|message processing queue|0.999808
+1   ICMP|Internet Control Message Protocol|0.999964
+0   char|\newcommand*\circled[1]{\tikz[baseline=(char.base)]{ \node[shape=circle,draw,inner sep=2pt]|0.696532
+0   I}|1+\eta-i|0.854368
+1   MLP|Multilayer Perceptron Regression|0.981107
+1   VRO|Vera C.\ Rubin Observatory|0.988583
+1   LEW($d$)|\subsection{Least Expected Workload|0.992445
+1   DFT|density-functional-theory|0.999408
+1   FP|false positive|0.99818
+1   FRW|Friedman-Robertson-Walker|0.999408
+1   QMC|Quantum Monte Carlo|0.999808
+0   g(r)|given by $Q(r) \propto|0.944843
